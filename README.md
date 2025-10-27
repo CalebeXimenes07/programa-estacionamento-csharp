@@ -44,12 +44,12 @@ Você precisará ter o [.NET SDK](https://dotnet.microsoft.com/en-us/download) i
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-SEU-PROJETO.git](https://github.com/SEU-USUARIO/NOME-DO-SEU-PROJETO.git)
+    git clone [https://github.com/CalebeXimenes07/programa-estacionamento-csharp.git](https://github.com/CalebeXimenes07/programa-estacionamento-csharp.git)
     ```
 
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd NOME-DO-SEU-PROJETO
+    cd programa-estacionamento-csharp
     ```
 
 3.  Execute o projeto:
